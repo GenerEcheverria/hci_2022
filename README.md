@@ -12,39 +12,39 @@
   </thead>
   <tbody>
     <tr>
-      <td>Valeria Ysabel González Meneses</td>
+      <td><a href="">Valeria Ysabel González Meneses</a></td>
       <td>Team Leader</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Gener Alejandro Echeverría Chi</td>
+      <td><a href="">Gener Alejandro Echeverría Chi</a></td>
       <td>Team Member</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>William Felipe Cetina Pech</td>
+      <td><a href="">William Felipe Cetina Pech</a></td>
       <td>Team Member</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
      <tr>
-      <td>Jesús Ernesto Estrella Chan</td>
+      <td><a href="">Jesús Ernesto Estrella Chan</a></td>
       <td>Team Member</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>     
      <tr>
-      <td>Juan Fernando Rodríguez Díaz/td>
+      <td><a href="https://github.com/jfer1990">Juan Fernando Rodríguez Díaz</a></td>
       <td>Team Member</td>
       <td></td>
       <td></td>
-      <td>a12216291@alumnos.uady.mx</td>
+       <td><a href="mailto:a12216291@alumnos.uady.mx">a12216291@alumnos.uady.mx</a></td>
     </tr>
   </tbody>
   </table>
