@@ -14,39 +14,40 @@
     <tr>
       <td>Valeria Ysabel González Meneses</td>
       <td>Team Leader</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>.</td>
+      <td>.</td>
+      <td>.</td>
     </tr>
     
     <tr>
       <td>Gener Alejandro Echeverría Chi</td>
       <td>Team Member</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>.</td>
+      <td>.</td>
+      <td>.</td>
     </tr>
     
     <tr>
       <td>William Felipe Cetina Pech</td>
       <td>Team Member</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>.</td>
+      <td>.</td>
+      <td>.</td>
     </tr>
     
      <tr>
       <td>Jesús Ernesto Estrella Chan</td>
       <td>Team Member</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>.</td>
+      <td>.</td>
+      <td>.</td>
+    </tr>
           
      <tr>
       <td>Juan Fernando Rodríguez Díaz/td>
       <td>Team Member</td>
-      <td></td>
-      <td></td>
+      <td>.</td>
+      <td>.</td>
       <td>a12216291@alumnos.uady.mx</td>
     </tr>
   </tbody>
