@@ -16,11 +16,13 @@
       <td>Team Leader</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     
     <tr>
       <td>Gener Alejandro Echeverría Chi</td>
       <td>Team Member</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -30,11 +32,13 @@
       <td>Team Member</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     
      <tr>
       <td>Jesús Ernesto Estrella Chan</td>
       <td>Team Member</td>
+      <td></td>
       <td></td>
       <td></td>
           
