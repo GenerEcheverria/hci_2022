@@ -19,7 +19,7 @@
       <td><a href="mailto:a19216295@alumnos.uady.mx">a19216295@alumnos.uady.mx</a></td>
     </tr>
     <tr>
-      <td><a href="">Gener Alejandro Echeverría Chi</a></td>
+      <td><a href="https://github.com/GenerEcheverria">Gener Alejandro Echeverría Chi</a></td>
       <td>Team Member</td>
       <td></td>
       <td></td>
