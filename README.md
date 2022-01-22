@@ -16,7 +16,7 @@
       <td>Team Leader</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="mailto:a19216295@alumnos.uady.mx">a19216295@alumnos.uady.mx</a></td>
     </tr>
     <tr>
       <td><a href="">Gener Alejandro Echeverría Chi</a></td>
@@ -30,14 +30,14 @@
       <td>Team Member</td>
       <td></td>
       <td></td>
-      <td><a href="mailto:a19216298@alumnos.uady.mx">a19216298@alumnos.uady.mx</td>
+      <td><a href="mailto:a19216298@alumnos.uady.mx">a19216298@alumnos.uady.mx</a></td>
     </tr>
      <tr>
       <td><a href="">Jesús Ernesto Estrella Chan</a></td>
       <td>Team Member</td>
       <td></td>
       <td></td>
-      <td></td>
+       <td><a href="mailto:a15001870@alumnos.uady.mx">a15001870@alumnos.uady.mx</a></td>
     </tr>     
      <tr>
       <td><a href="https://github.com/jfer1990">Juan Fernando Rodríguez Díaz</a></td>
