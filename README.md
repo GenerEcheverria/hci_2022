@@ -39,13 +39,6 @@
       <td></td>
        <td><a href="mailto:a15001870@alumnos.uady.mx">a15001870@alumnos.uady.mx</a></td>
     </tr>     
-     <tr>
-      <td><a href="https://github.com/jfer1990">Juan Fernando Rodríguez Díaz</a></td>
-      <td>Team Member</td>
-      <td>Designing and implementing algorithms</td>
-      <td>Craft Beer</td>
-       <td><a href="mailto:a12216291@alumnos.uady.mx">a12216291@alumnos.uady.mx</a></td>
-    </tr>
   </tbody>
   </table>
 <section>
