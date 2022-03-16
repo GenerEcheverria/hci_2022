@@ -39,5 +39,5 @@ This repository contains the products of our final project for the HCI 2022 cour
 
 ## Products
 - [Elevator pitch](https://m.youtube.com/watch?v=V7EjuBsCVzo&t=3s)
-- [First delivery](deliveries/Delivery1.md)
+- [First delivery](Deliveries/Delivery1.md)
 

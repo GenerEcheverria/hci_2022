@@ -4,10 +4,14 @@
 - [Definition and justification of the problem](#definition-of-the-problem)
 - [Project plan](#project-plan)
 - [About our users](#about-our-users)
+    - [Attributes](#attributes)
     - [Research methods](#research-methods)
         - [Surveys](#surveys)
         - [Experts interview](#experts-interview)
     - [Analysis of results](#analysis-of-results)
+        - [General audience](#general-audience)
+        - [Drivers](#drivers)
+        - [Passengers](#passengers)
     - [Personas](#personas)
     - [Scenarios](#scenarios)
 - [Requirements](#requirements)
@@ -26,13 +30,53 @@ The users who will be able to participate will be exclusively students of the fa
 ## Project plan
 
 ## About our users
+
+### Attributes 
+Following the [Persona Creation and Usage Toolkit](https://pdf4pro.com/view/persona-creation-and-usage-toolkit-interaction-by-design-4d669c.html) by George Olsen, we considered Usage goals/needs/attributes are required to recognize the problems and ambitions through the motivations, needs or frustrations that the user has about his current transport and the ride sharing  proposal. We consider some Context-of-usage attributes to understand the larger context around the task. Finally, we added demographics to make Personas feel more like a real person.
+- General
+- Demographics
+- Transport methods
+- Thoughts about the proposal
+
 ### Research methods
+
 #### Surveys
 This is the main technique to collect user data because of time limitations, asking for both demographics, transportation needs and behavioral driver/passenger aspects. The implementation of the instrument exists as a [Google Forms survey](https://forms.gle/psQhjL47TThQpDzL7).
 #### Experts interview
 In addition to the transport situation of each student and their thoughts about the ride sharing initiative, we decided to interview the lawyer Elsy Chi, about the legal implications of carrying passengers, for building a higher level understanding needs of the proposal. The [interview](https://1drv.ms/w/s!Aid7glBVSnKngZpdwodBTs7c63_2sQ?e=wzw5PR) was realized in person and aims to collect qualitative data.
 
 ### Analysis of results
+#### General audience
+We obtained 39 responses and the surveyed covered students from Facultad de Matemáticas (FMAT).  
+
+From the data gathered, we concluded that 84.4% of the survey respondents, of which 81.3% were male, live in Merida scattered in various neighborhoods; we can observe that there is a higher frequency of students living in certain neighborhoods. They are also 18 years old or older and have a mobile device on hand; they are open to trying new technologies that will benefit their situation. They have an average of $217 pesos spent each week on public transport; something worth noting is that the quantities that presented a higher arithmetic mode were $500mxn and $60mxn. 
+
+Of the respondents, 56.3% are middle-upper class, followed by the 28.1% who belong to the middle-lower class.  
+
+68% of the respondents have internet while being transported to school, whilst 8% only during certain situations and the other 24% do not have internet connection available throughout their trip to school. On the other hand, 78.5% indicated that the most convenient method to go to school is to use their own vehicle. 
+
+According to the surveys, the main concern when taking the bus was the amount of time it takes to go to school, as well as possible delays due to traffic jam and the excess of passengers causing them not to be able to take the bus and have to wait for another one, which can take up to an hour or two. 70% of the respondents indicated that a shorter transfer time would have a substantial weight to change their method of transportation. 
+
+#### Drivers
+We identified 19 students that can participate as drivers. 84.2% of them would be willing to transport other students to the faculty. 
+
+Those who would be willing to participate expressed their main motivation to do so; that would be the economic compensation focused on covering gasoline bills and the moral aspect of it, which is to help other students that struggle to get to the faculty and have negative consequences (from school “tardies” to high expenses due to public transport fees). On the other hand, the main concern that would make students second-guess themselves to participate to this proposal would be the fact that they don’t really know the passenger, so the drivers fear that they will behave inappropriately and that they will put the driver’s life or vehicle on danger. Others mention concerns such as transporting passengers that tested positive for COVID-19, having to deviate form their usual route or not getting the economic compensation. 
+
+With the purpose of being as safe as possible, the students consider that it is important to have both driver’s and passenger’s information. 78.9% of students consider that it is crucial to have enough information to identify their passengers as a way to ensure the safety during the trip, this percentage also are willing to share their personal data with them. Other recommendations mentioned by the respondents were to always use facemasks (due to COVID-19 safety reasons), an emergency button and the possibility for women to take rides with other women. 
+
+The frequency in which the respondents are willing to participate as drivers varies, some of them consider to participate from Monday to Friday, whilst others are willing to participate only three days of the week or depending on the days that they need to assist to the faculty for their classes. 
+
+33.3% of the drivers claimed to have car insurance that cover car accidents where the driver and passenger are involved. 38.9% claimed that they don’t have car insurance that cover the situation mentioned above and the remaining 27.8% don’t have car insurance at all. 
+
+#### Passengers
+The users expressed their interest on participating in the proposed dynamic, however, through their answers we can identify that there needs to be a certain kind of trust; enough to make passengers feel comfortable to take rides from other people. Nevertheless, despite the concerns that could arise for this proposal, it is clear the reason why users would be interested on participating on this dynamic: time and comfortability. Nowadays, time is a very important factor, especially for university students. It is also mentioned the comfortability concept which, unfortunately, is hard to find in other transportation alternatives. 
+
+69% of survey respondents are willing to share their data with the driver, not everyone is willing to do so, but they changed their minds once they were asked if they would like to receive the drivers’ data as well, where 92% agreed. 
+
+From the students willing to be passengers, most of them think that, to feel as safe as possible, they recommend things like identification confirmation to assure that everyone who participates in this dynamic belongs to FMAT, as well as a psychological test and live tracking of the trip. Once their safety is ensured, 76.9% indicated that they would use this service every day, stating that their main motivation to be part of this dynamic is the time reduction dedicated to being transported to school. However, something that would prevent them from participating is the cost and if cases of harassment occur. 
+
+The advantage of using this service is an efficient and comfortable alternative of transportation. 
+
 ### Personas
 ### Scenarios
 
