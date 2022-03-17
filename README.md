@@ -36,8 +36,16 @@ This repository contains the products of our final project for the HCI 2022 cour
 
 
 ## User Centered Design
+According to [Interation Design Foundation](https://www.interaction-design.org/literature/topics/user-centered-design#:~:text=User%2Dcentered%20design%20(UCD),and%20accessible%20products%20for%20them), User Centered Design (UCD) is a collection of processes that focus on putting users at the center of product design and development.
+
+In this project we cover the following three stages UCD:
+
+1. **User**: The focus is on understanding the problem and identifying the people who will use the product, what they will use it for, and under what conditions they will use it. Surveys, Personas and Scenarios were used.
+2. **Prototyping**:
+3. **Evaluate**: 
 
 ## Products
+The deliveries focus on one UCD stage:
 - [Elevator pitch](https://m.youtube.com/watch?v=V7EjuBsCVzo&t=3s)
-- [First delivery](Deliveries/Delivery1.md)
+- Users: [First delivery](Deliveries/Delivery1.md)
 

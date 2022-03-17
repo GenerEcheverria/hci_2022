@@ -28,6 +28,7 @@ The use of public transport for our colleagues can bring with it difficulties an
 The users who will be able to participate will be exclusively students of the faculty. The students who own a vehicle could receive a commission for their help when putting it at the service of their classmates, and the students who use the service, would obtain a fast, safe, and efficient transport.  
 
 ## Project plan
+Project tasks were managed using [Notion](https://jungle-baroness-076.notion.site/44cab109a5df4c80a86fbc4980e5b80f?v=1633fbb861ba4260a6c746beb3c6b015) as our workspace.
 
 ## About our users
 
@@ -47,11 +48,11 @@ In addition to the transport situation of each student and their thoughts about 
 
 ### Analysis of results
 #### General audience
-We obtained 39 responses and the surveyed covered students from Facultad de Matemáticas (FMAT).  
+We obtained 34 responses and the surveyed covered students from Facultad de Matemáticas (FMAT).  
 
-From the data gathered, we concluded that 84.4% of the survey respondents, of which 81.3% were male, live in Merida scattered in various neighborhoods; we can observe that there is a higher frequency of students living in certain neighborhoods. They are also 18 years old or older and have a mobile device on hand; they are open to trying new technologies that will benefit their situation. They have an average of $217 pesos spent each week on public transport; something worth noting is that the quantities that presented a higher arithmetic mode were $500mxn and $60mxn. 
+From the data gathered, we concluded that 85.3% of the survey respondents, of which 79.4% were male, live in Merida scattered in various neighborhoods; we can observe that there is a higher frequency of students living in certain neighborhoods. They are also 18 years old or older and have a mobile device on hand; they are open to trying new technologies that will benefit their situation. They have an average of $217 pesos spent each week on public transport; something worth noting is that the quantities that presented a higher arithmetic mode were $500mxn and $60mxn. 
 
-Of the respondents, 56.3% are middle-upper class, followed by the 28.1% who belong to the middle-lower class.  
+Of the respondents, 52.9% are middle-upper class, followed by the 32.4% who belong to the middle-lower class.  
 
 68% of the respondents have internet while being transported to school, whilst 8% only during certain situations and the other 24% do not have internet connection available throughout their trip to school. On the other hand, 78.5% indicated that the most convenient method to go to school is to use their own vehicle. 
 
@@ -71,7 +72,7 @@ The frequency in which the respondents are willing to participate as drivers var
 #### Passengers
 The users expressed their interest on participating in the proposed dynamic, however, through their answers we can identify that there needs to be a certain kind of trust; enough to make passengers feel comfortable to take rides from other people. Nevertheless, despite the concerns that could arise for this proposal, it is clear the reason why users would be interested on participating on this dynamic: time and comfortability. Nowadays, time is a very important factor, especially for university students. It is also mentioned the comfortability concept which, unfortunately, is hard to find in other transportation alternatives. 
 
-69% of survey respondents are willing to share their data with the driver, not everyone is willing to do so, but they changed their minds once they were asked if they would like to receive the drivers’ data as well, where 92% agreed. 
+73.3% of survey respondents are willing to share their data with the driver, not everyone is willing to do so, but they changed their minds once they were asked if they would like to receive the drivers’ data as well, where 93.3% agreed. 
 
 From the students willing to be passengers, most of them think that, to feel as safe as possible, they recommend things like identification confirmation to assure that everyone who participates in this dynamic belongs to FMAT, as well as a psychological test and live tracking of the trip. Once their safety is ensured, 76.9% indicated that they would use this service every day, stating that their main motivation to be part of this dynamic is the time reduction dedicated to being transported to school. However, something that would prevent them from participating is the cost and if cases of harassment occur. 
 
