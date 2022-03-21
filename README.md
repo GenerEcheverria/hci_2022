@@ -1,7 +1,7 @@
 # Human Computer Interaction 2022
 This repository contains the products of our final project for the HCI 2022 course for the Software Engineering major at Universidad Autónoma de Yucatán.
 
-## Team members
+## :partying_face:	Team members
 <table>
   <thead>
     <tr>
@@ -35,7 +35,7 @@ This repository contains the products of our final project for the HCI 2022 cour
   </table>
 
 
-## User Centered Design
+## :eyes:	User Centered Design
 According to [Interation Design Foundation](https://www.interaction-design.org/literature/topics/user-centered-design#:~:text=User%2Dcentered%20design%20(UCD),and%20accessible%20products%20for%20them), User Centered Design (UCD) is a collection of processes that focus on putting users at the center of product design and development.
 
 In this project we cover the following three stages UCD:
@@ -44,7 +44,7 @@ In this project we cover the following three stages UCD:
 2. **Prototyping**:
 3. **Evaluate**: 
 
-## Products
+## :books:	Products
 The deliveries focus on one UCD stage:
 
 - Users: [First delivery](Deliveries/Delivery1.md)

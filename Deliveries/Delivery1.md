@@ -17,7 +17,7 @@
 - [Contributions](#contributions)
 - [Video presentation](#video-presentation)
 
-## Definition of the problem 
+## :warning: Definition of the problem 
 
 According to the Censo de Poblacion y Vivienda 2020 by INEGI, over 53 percent of students from 19 to 25 years need to move through public transportation. 
 
@@ -27,10 +27,10 @@ The use of public transport for our colleagues can bring with it difficulties an
 
 The users who will be able to participate will be exclusively students of the faculty. The students who own a vehicle could receive a commission for their help when putting it at the service of their classmates, and the students who use the service, would obtain a fast, safe, and efficient transport.  
 
-## Project plan
+## :writing_hand:	Project plan
 Project tasks were managed using [Notion](https://jungle-baroness-076.notion.site/44cab109a5df4c80a86fbc4980e5b80f?v=1633fbb861ba4260a6c746beb3c6b015) as our workspace.
 
-## About our users
+## :busts_in_silhouette: About our users
 
 ### Attributes 
 Following the [Persona Creation and Usage Toolkit](https://pdf4pro.com/view/persona-creation-and-usage-toolkit-interaction-by-design-4d669c.html) by George Olsen, we considered Usage goals/needs/attributes are required to recognize the problems and ambitions through the motivations, needs or frustrations that the user has about his current transport and the ride sharing  proposal. We consider some Context-of-usage attributes to understand the larger context around the task. Finally, we added demographics to make Personas feel more like a real person.
@@ -112,6 +112,6 @@ Driver recommends other students to their driver and vice versa.
 #### Notes
 This was a first scenario that represents the basic interaction between the passenger and the driver. More research on user behavior is required to delve into the execution steps, as well as to discover other considerations and describe their scenarios.
 
-## Contributions
+## :handshake: Contributions
 
-## Video presentation
+## :movie_camera:	Video presentation
