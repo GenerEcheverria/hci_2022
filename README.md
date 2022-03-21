@@ -46,6 +46,6 @@ In this project we cover the following three stages UCD:
 
 ## Products
 The deliveries focus on one UCD stage:
-- [Elevator pitch](https://m.youtube.com/watch?v=V7EjuBsCVzo&t=3s)
+
 - Users: [First delivery](Deliveries/Delivery1.md)
 

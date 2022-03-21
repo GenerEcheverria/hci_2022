@@ -14,7 +14,7 @@
         - [Passengers](#passengers)
     - [Personas](#personas)
     - [Scenarios](#scenarios)
-- [Requirements](#requirements)
+- [Contributions](#contributios)
 - [Video presentation](#video-presentation)
 
 ## Definition of the problem 
@@ -79,7 +79,37 @@ From the students willing to be passengers, most of them think that, to feel as 
 The advantage of using this service is an efficient and comfortable alternative of transportation. 
 
 ### Personas
-### Scenarios
+#### Driver
+![Driver](../Products/Personas/Persona_1.jpg)
 
-## Requirements
+#### Passenger
+![alt text](../Products/Personas/Persona_2.jpg)
+
+### Scenario
+#### Initial description:
+Janet is an Actuary student who uses public transportation to get to FMAT, however, this transportation takes more time than she would like, and she is also worried about getting COVID due to the number of people on the bus. She would like a cheaper option than a taxi and one that is quick to go to her college.
+On the other hand, there is Mario, a computer science student who goes to FMAT by car and who would be interested in earning extra money with some activity that does not consume much time.
+
+#### Normal flow of events:
+Mario shares the route he takes to get to the faculty with a possible passenger, then Janet realizes that Mario's route is very similar to hers. At first, she hesitates to contact him since she doesn't know Mario, but she decides to find out more about him and discovers that other students have taken a trip with him and they haven't had any complaints, so she contacts him to get to an agreement on the place and time so he can pick her up, as well as whether Janet is going to pay Mario or not for the trip depending on what they agreed on.
+
+Mario picks up Janet as previously agreed, and they head to FMAT.
+
+Finally, when they arrive to the destination, Janet pays Mario and each one goes their own way.
+
+#### Considerations:
+- Both the driver and the passenger could cancel the trip or not arrive at the agreed time. If this happens, it is required to notify the other user as soon as possible.
+- The passenger may not want to pay the driver.
+- Some aggression towards any of the users could occur.
+- The payment method.
+- Possible car accidents.
+
+#### System status
+Driver recommends other students to their driver and vice versa.
+
+#### Notes
+This was a first scenario that represents the basic interaction between the passenger and the driver. More research on user behavior is required to delve into the execution steps, as well as to discover other considerations and describe their scenarios.
+
+## Contributions
+
 ## Video presentation
