@@ -13,8 +13,8 @@
         - [Drivers](#drivers)
         - [Passengers](#passengers)
     - [Personas](#personas)
-    - [Scenarios](#scenarios)
-- [Contributions](#contributios)
+    - [Scenario](#scenario)
+- [Contributions](#contributions)
 - [Video presentation](#video-presentation)
 
 ## Definition of the problem 
