@@ -1,4 +1,4 @@
-# First delivery
+# :page_facing_up: First delivery 
 ## Table of contents
 
 - [Definition and justification of the problem](#definition-of-the-problem)
@@ -42,7 +42,7 @@ Following the [Persona Creation and Usage Toolkit](https://pdf4pro.com/view/pers
 ### Research methods
 
 #### Surveys
-This is the main technique to collect user data because of time limitations, asking for both demographics, transportation needs and behavioral driver/passenger aspects. The implementation of the instrument exists as a [Google Forms survey](https://forms.gle/psQhjL47TThQpDzL7).
+This is the main technique to collect user data because of time limitations, asking for both demographics, transportation needs and behavioral driver/passenger aspects. The implementation of the instrument exists as a [Google Forms survey](https://docs.google.com/forms/d/1bjP4idgR6uvtjDZnsr2I7SFVUlGwoIQo25Z87ZdgJ2U/edit#responses).
 #### Experts interview
 In addition to the transport situation of each student and their thoughts about the ride sharing initiative, we decided to interview the lawyer Elsy Chi, about the legal implications of carrying passengers, for building a higher level understanding needs of the proposal. The [interview](https://1drv.ms/w/s!Aid7glBVSnKngZpdwodBTs7c63_2sQ?e=wzw5PR) was realized in person and aims to collect qualitative data.
 
@@ -69,6 +69,8 @@ The frequency in which the respondents are willing to participate as drivers var
 
 33.3% of the drivers claimed to have car insurance that cover car accidents where the driver and passenger are involved. 38.9% claimed that they don’t have car insurance that cover the situation mentioned above and the remaining 27.8% don’t have car insurance at all. 
 
+According to the expert interview, it is very important that people who carry passengers have insurance that covers the high costs of compensation for injured or dead passengers that the law dictates. 
+
 #### Passengers
 The users expressed their interest on participating in the proposed dynamic, however, through their answers we can identify that there needs to be a certain kind of trust; enough to make passengers feel comfortable to take rides from other people. Nevertheless, despite the concerns that could arise for this proposal, it is clear the reason why users would be interested on participating on this dynamic: time and comfortability. Nowadays, time is a very important factor, especially for university students. It is also mentioned the comfortability concept which, unfortunately, is hard to find in other transportation alternatives. 
 
@@ -76,7 +78,7 @@ The users expressed their interest on participating in the proposed dynamic, how
 
 From the students willing to be passengers, most of them think that, to feel as safe as possible, they recommend things like identification confirmation to assure that everyone who participates in this dynamic belongs to FMAT, as well as a psychological test and live tracking of the trip. Once their safety is ensured, 76.9% indicated that they would use this service every day, stating that their main motivation to be part of this dynamic is the time reduction dedicated to being transported to school. However, something that would prevent them from participating is the cost and if cases of harassment occur. 
 
-The advantage of using this service is an efficient and comfortable alternative of transportation. 
+The advantage of using this service is an efficient and comfortable alternative of transportation.  
 
 ### Personas
 #### Driver
