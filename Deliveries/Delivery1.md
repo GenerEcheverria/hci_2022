@@ -165,8 +165,6 @@ delivery.
 | Valeria González |   16   | 23.88%      |
 | Total points |   67   | 100%      |
 
-![Tasks](contributions1/percentage.png)
-
 ## :clapper: Video presentation
 
 [![Alt text](https://img.youtube.com/vi/5UiVBZFEYKU/0.jpg)](https://www.youtube.com/watch?v=5UiVBZFEYKU)
