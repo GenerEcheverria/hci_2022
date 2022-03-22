@@ -1,9 +1,9 @@
 # :page_facing_up: First delivery 
 ## Table of contents
 
-- [Definition and justification of the problem](#definition-of-the-problem)
-- [Project plan](#project-plan)
-- [About our users](#about-our-users)
+- [Definition of the problem](#warning-definition-of-the-problem)
+- [Project plan](#book-project-plan)
+- [About our users](#grinning-about-our-users)
     - [Attributes](#attributes)
     - [Research methods](#research-methods)
         - [Surveys](#surveys)
@@ -14,8 +14,8 @@
         - [Passengers](#passengers)
     - [Personas](#personas)
     - [Scenario](#scenario)
-- [Contributions](#contributions)
-- [Video presentation](#video-presentation)
+- [Contributions](#handshake-contributions)
+- [Video presentation](#clapper-video-presentation)
 
 ## :warning: Definition of the problem 
 
@@ -27,10 +27,10 @@ The use of public transport for our colleagues can bring with it difficulties an
 
 The users who will be able to participate will be exclusively students of the faculty. The students who own a vehicle could receive a commission for their help when putting it at the service of their classmates, and the students who use the service, would obtain a fast, safe, and efficient transport.  
 
-## :writing_hand:	Project plan
+## :book: Project plan 
 Project tasks were managed using [Notion](https://jungle-baroness-076.notion.site/44cab109a5df4c80a86fbc4980e5b80f?v=1633fbb861ba4260a6c746beb3c6b015) as our workspace.
 
-## :busts_in_silhouette: About our users
+## :grinning: About our users
 
 ### Attributes 
 Following the [Persona Creation and Usage Toolkit](https://pdf4pro.com/view/persona-creation-and-usage-toolkit-interaction-by-design-4d669c.html) by George Olsen, we considered Usage goals/needs/attributes are required to recognize the problems and ambitions through the motivations, needs or frustrations that the user has about his current transport and the ride sharing  proposal. We consider some Context-of-usage attributes to understand the larger context around the task. Finally, we added demographics to make Personas feel more like a real person.
@@ -112,7 +112,17 @@ Driver recommends other students to their driver and vice versa.
 #### Notes
 This was a first scenario that represents the basic interaction between the passenger and the driver. More research on user behavior is required to delve into the execution steps, as well as to discover other considerations and describe their scenarios.
 
-## :handshake: Contributions
+## :handshake: Contributions 
+The following table contains the activities that were planned out during this first delivery as well as its value (basing it off of the amount of time it took to accomplish each activity) as well as the person who was in charge of the activity in question.
 
-## :movie_camera:	Video presentation
-[Video](https://youtu.be/MVUD0hA9RYs)
+All activities will have a value from 1 to 3 depending on the amount of time it took to accomplish said activity, as previously mentioned.
+
+![Tasks](/Deliveries/contributions1/Tasks.png)
+
+This following table represents the contribution percentage of each member during this first 
+delivery.
+
+![Tasks](/Deliveries/contributions1/percentage.png)
+
+## :clapper:	Video presentation
+[![Alt text](https://img.youtube.com/vi/5UiVBZFEYKU/0.jpg)](https://www.youtube.com/watch?v=5UiVBZFEYKU)
