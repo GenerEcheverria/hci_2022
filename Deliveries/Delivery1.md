@@ -117,12 +117,12 @@ The following table contains the activities that were planned out during this fi
 
 All activities will have a value from 1 to 3 depending on the amount of time it took to accomplish said activity, as previously mentioned.
 
-![Tasks](/Deliveries/contributions1/Tasks.png)
+![Tasks](contributions1/Tasks.png)
 
 This following table represents the contribution percentage of each member during this first 
 delivery.
 
-![Tasks](/Deliveries/contributions1/percentage.png)
+![Tasks](contributions1/percentage.png)
 
 ## :clapper:	Video presentation
 [![Alt text](https://img.youtube.com/vi/5UiVBZFEYKU/0.jpg)](https://www.youtube.com/watch?v=5UiVBZFEYKU)
