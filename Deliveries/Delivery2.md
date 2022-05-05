@@ -3,9 +3,13 @@
 ## Table of contents
 - [Requirements](#requirements)
 - [Prototyping](#prototyping)
-- [Usability Test Sketch](#usability-test-sketch)
+    - [Method description](#method-description)
+    - [Method implementation](#method-implementation)
+- [Contributions](#handshake-contributions)
+- [Video presentation](#clapper-video-presentation)
 
 ## Requirements
+With the information obtained from the first phase of the UCD and some complementary interviews, we elaborated the system [Software Requirements Specification](https://1drv.ms/w/s!Aid7glBVSnKngZsmhGh8Exrow0LLhw?e=2oCysR).
 
 
 ## Prototyping
@@ -22,7 +26,28 @@ This methodology consist of four main levels:
 
 For more information about the methodology steps, checkout the following [document](https://docs.google.com/document/d/1kqvVJMVD-xUobWbfI_EAuhveyAGOWU5vhTxA0HmMPCg/edit?usp=sharing).
 
-### Method application
-The following [document](https://1drv.ms/w/s!Aid7glBVSnKngZso40ZJD7R1teST_Q?e=n32EZK) the application of the method on different Use Cases
+### Method implementation
+Here is the [method implementation](https://1drv.ms/w/s!Aid7glBVSnKngZso40ZJD7R1teST_Q?e=n32EZK) to create prototypes from different Use Cases.
 
-## Usability Test Sketch
+## :handshake: Contributions
+
+The following table contains the activities that were planned out during this second delivery as well as its value (basing it off of the amount of time it took to accomplish each activity) as well as the person who was in charge of the activity in question.
+
+All activities will have a value from 1 to 3 depending on the amount of time it took to accomplish said activity, as previously mentioned.
+
+| Activity          | Value | Participants          |
+| :---------------- | :---: | :-------------------- |
+
+
+This following table represents the contribution percentage of each member during this first
+delivery.
+
+| Member        | Points | Percentage         |
+| :---------------- | :---: | :--------------------: |
+| William Cetina |      |       |
+| Gener Echeverria |      |       |
+| Jesus Estrella |      |       |
+| Valeria González |      |      |
+| Total points |      | 100%      |
+
+## :clapper: Video presentation
