@@ -61,8 +61,7 @@ All activities will have a value from 1 to 3 depending on the amount of time it 
 |  Evaluation Document Second Delivery         | 1 | Jesús Estrella|
 
 
-This following table represents the contribution percentage of each member during this first
-delivery.
+This following table represents the contribution percentage of each member during the second delivery.
 
 | Member        | Points | Percentage         |
 | :---------------- | :---: | :--------------------: |

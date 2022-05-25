@@ -42,11 +42,20 @@ In this project we cover the following three stages UCD:
 
 1. **User**: The focus is on understanding the problem and identifying the people who will use the product, what they will use it for, and under what conditions they will use it. Surveys, Personas and Scenarios were used.
 2. **Prototyping**: Identify any  requirements or user goals that must be met for the product to be successful in order to build solution prototypes. 
-3. **Evaluate**: 
+3. **Evaluate**: Evaluation through usability tests with real users.
 
 ## :books:	Products
 The deliveries focus on one UCD stage:
 
 - Users: [First delivery](Deliveries/Delivery1.md)
 - Prototyping: [Second delivery](Deliveries/Delivery2.md)
+- Evaluate: [Third delivery](Deliveries/Delivery3.md)
 
+## Project contribution
+| Member        | Points | Percentage         |
+| :---------------- | :---: | :--------------------: |
+| William Cetina |   59   |   25.5%    |
+| Gener Echeverria |  59    |    25.5%   |
+| Jesus Estrella |   53   |   24%    |
+| Valeria González |   56   |   25%   |
+| Total points |   227   | 100%      |
